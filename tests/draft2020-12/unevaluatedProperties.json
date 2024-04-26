@@ -530,7 +530,7 @@
                 "data": {
                     "foo": "then"
                 },
-                "valid": false
+                "valid": true
             },
             {
                 "description": "when if is true and has unevaluated properties",
