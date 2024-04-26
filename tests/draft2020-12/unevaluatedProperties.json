@@ -528,8 +528,7 @@
             {
                 "description": "when if is true and has no unevaluated properties",
                 "data": {
-                    "foo": "then",
-                    "bar": "bar"
+                    "foo": "then"
                 },
                 "valid": false
             },
